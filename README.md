@@ -1,2 +1,2 @@
-# ticTacToba
-Tic-tac-toe game using react
+# tik tak toe
+Tic-tac-toe game using react. Developed following the react docs instructions. 
